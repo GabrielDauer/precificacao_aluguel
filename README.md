@@ -5,6 +5,7 @@ Bem vindos(as) ao meu Portfólio. Pretendo contribuir com estudos de ciência de
 ## Contato
 
 https://www.linkedin.com/in/gabriel-dauer/
+
 gabriel.dauer@outlook.com
 
 ## Projeto de Precificação de Aluguel
