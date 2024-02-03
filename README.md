@@ -2,6 +2,11 @@
 
 Bem vindos(as) ao meu Portfólio. Pretendo contribuir com estudos de ciência de ciência de dados e machine learning neste portfólio com o passar do tempo.
 
+## Contato
+
+https://www.linkedin.com/in/gabriel-dauer/
+gabriel.dauer@outlook.com
+
 ## Projeto de Precificação de Aluguel
 
 Este projeto tem como objetivo treinar a predição de aluguéis considerando um csv com diversas linhas como esta por exemplo: 
